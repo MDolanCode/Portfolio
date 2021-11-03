@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 ---
 ##  Released/Soon to Be Released Projects
 

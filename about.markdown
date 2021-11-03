@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 <img src="/images/matt.jpeg" alt="Picture of Matthew" width="150"/>
