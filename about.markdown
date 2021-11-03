@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-About Me
+<img src="/images/matt.jpeg" alt="Picture of Matthew" width="150"/>
 
 Hello, World! My name is Matthew, and I am an Indie iOS Developer with two years of experience and from Vancouver, Canada. I have previously worked in the EV industry, and my interests are in the crypto space, creating electronic music, and learning more about software development. Also, I am a former world-class competitive bagpiper and have performed in Scotland, Ireland, Belgium, France, the United States of America, Japan and my home country of Canada.
 
