@@ -42,7 +42,8 @@ permalink: /:title/
 header_pages:
   - index.markdown
   - about.markdown
-  - projects.markdown
+  - portfolio.markdown
+  - blog.markdown
   - resume.markdown
   - contact.markdown
 
