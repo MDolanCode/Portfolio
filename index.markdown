@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Blog
 ---
+<img src="/images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
