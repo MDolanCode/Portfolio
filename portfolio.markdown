@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Portfolio
 ---
-##  Released/Soon to Be Released Projects
+##  Released/Soon to Be Released Apps
 
 ### Anime Quotes!
 September 2021 - October 2021
@@ -85,7 +85,7 @@ When you tap on contact in settings, this email screen will show and the user ca
 
 <img style="padding: 10px;" src="/images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
 
-## Projects On GitHub
+## App Projects On GitHub
 
 ### Daily Japan Photos
 Sep 2021
