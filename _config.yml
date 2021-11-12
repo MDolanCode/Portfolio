@@ -43,7 +43,6 @@ header_pages:
   - index.markdown
   - about.markdown
   - portfolio.markdown
-  - blog.markdown
   - resume.markdown
   - contact.markdown
 
