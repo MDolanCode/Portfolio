@@ -15,7 +15,7 @@ This app will be released soon to the app store, and the code can be view here o
 Technologies used: Swift, UIKit, MVC, Coordinators, Codable, Alamofire, Safari Services, Accessibility.
 
 ### Screenshots
-<img style="padding: 10px;" src="/images/anime-quotes/Launchscreen-iPhone-8Plus.png" alt="Launchscreen of app" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Quotes-Screen-iPhone-8Plus.png" alt="Anime Quotes screen" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Shout-Outs-Screen-iPhone-8Plus.png" 
+<img style="padding: 10px;" src="../images/anime-quotes/Launchscreen-iPhone-8Plus.png" alt="Launchscreen of app" width="225"/><img style="padding: 10px;" src="../images/anime-quotes/Quotes-Screen-iPhone-8Plus.png" alt="Anime Quotes screen" width="225"/><img style="padding: 10px;" src="../images/anime-quotes/Shout-Outs-Screen-iPhone-8Plus.png" 
 alt="Shout outs screen" width="225"/>
 
 #### Launchscreen
@@ -48,11 +48,11 @@ This app is available on the [App Store](https://apps.apple.com/us/app/detroit-9
 Technologies used: Swift, UIKit, AVFoundations, AVPlayer, MVC, Coordinators, MessageUI, SafariServices, TableViews, Custom Cells, Xib, Auto layout, custom build phase for versioning.
 
 ### Screenshots
-<img style="padding: 10px;" src="/images/detroit-909/Launch-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/Main-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
+<img style="padding: 10px;" src="../images/detroit-909/Launch-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="../images/detroit-909/Main-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
 
-<img style="padding: 10px;" src="/images/detroit-909/Settings-iPhone-8Plus.png" alt="Settings screen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/FAQ-iPhone-8Plus.png" alt="FAQ screen of app" width="350"/>
+<img style="padding: 10px;" src="../images/detroit-909/Settings-iPhone-8Plus.png" alt="Settings screen of app" width="350"/><img style="padding: 10px;" src="../images/detroit-909/FAQ-iPhone-8Plus.png" alt="FAQ screen of app" width="350"/>
 
-<img style="padding: 10px;" src="/images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
+<img style="padding: 10px;" src="../images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="../images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
 
 #### Launch Screen
 
