@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="/portfolio/images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
+<img src="../../../../images/northshore.jpeg" alt="Picture of the Northshore Mountains, North Vancouver, Canada" width="100%"/>
 
 # Welcome
 
