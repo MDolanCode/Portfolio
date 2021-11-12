@@ -2,27 +2,25 @@
 layout: page
 title: Portfolio
 ---
-##  Released/Soon to Be Released Apps
+## Released Apps or Soon to Be Released Apps
 
 ### Anime Quotes!
 September 2021 - October 2021
 
-Project description: Anime Quotes! was built with the anime lover in mind and displays quotes on the screen. Every time you open the app or pull down to refresh, new anime quotes will appear. This app also has accessibility built-in to it and utilizes the VoiceOver Z gesture.
+### Project Description 
+Anime Quotes! was built with the anime lover in mind and displays quotes on the screen. Every time you open the app or pull down to refresh, new anime quotes will appear. This app also has accessibility built-in to it and utilizes the VoiceOver Z gesture.
 
 This app will be released soon to the app store, and the code can be view here on [GitHub](https://github.com/mdolancode/Anime-Quotes)!
 
 Technologies used: Swift, UIKit, MVC, Coordinators, Codable, Alamofire, Safari Services, Accessibility.
 
-### License
-
-This is an MIT License, but if you are going to use it please change the UI because the app will be in the AppStore soon. Thank you. 😄
-
 ### Screenshots
+<img style="padding: 10px;" src="/images/anime-quotes/Launchscreen-iPhone-8Plus.png" alt="Launchscreen of app" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Quotes-Screen-iPhone-8Plus.png" alt="Anime Quotes screen" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Shout-Outs-Screen-iPhone-8Plus.png" 
+alt="Shout outs screen" width="225"/>
 
 #### Launchscreen
 
 This is the first screen of the app when it is loading up.
-
 
 #### Anime Quotes Screen
 
@@ -32,28 +30,29 @@ The Anime Quotes! screen displays random anime quotes that are pulled in from an
 
 The shout outs screen gives credit to the API creator and photographer. You can tap the cells and it will redirect you to their websites. This screen also has an accessibility feature and utilizes the VoiceOver Z gesture to close the screen.
 
+### License
 
-<img style="padding: 10px;" src="/images/anime-quotes/Launchscreen-iPhone-8Plus.png" alt="Launchscreen of app" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Quotes-Screen-iPhone-8Plus.png" alt="Anime Quotes screen" width="225"/><img style="padding: 10px;" src="/images/anime-quotes/Shout-Outs-Screen-iPhone-8Plus.png" 
-alt="Shout outs screen" width="225"/>
+This is an MIT License, but if you are going to use it please change the UI because the app will be in the AppStore soon. Thank you. 😄
 
 ### Detroit-909
 December 2020 - April 2021
 
-Project description: Detroit-909 is a project that I started because I wanted to create a drum sampler that would pay homage to the birthplace of Techno, and the Roland TR-909 classic drum machine, hence the name. I started development at the end of December 2020, and was published to the AppStore on April 2, 2021. As of October 2021, it has 100+ downloads.
+### Project Description 
+Detroit-909 is a project that I started because I wanted to create a drum sampler that would pay homage to the birthplace of Techno, and the Roland TR-909 classic drum machine, hence the name. I started development at the end of December 2020, and was published to the AppStore on April 2, 2021. As of October 2021, it has 100+ downloads.
 
 * This is app is a drum sampler based on Roland's classic TR-909 and it consists of 11 drum pads and sampled sounds. 
 * Detroit Techno heavily utilized the TR-909 and helped to make it the iconic drum machine that it is today, so this app pays homage to both. 
-
 
 This app is available on the [App Store](https://apps.apple.com/us/app/detroit-909/id1560868575), and the code can be view here on [GitHub](https://github.com/mdolancode/Detroit-909)!
 
 Technologies used: Swift, UIKit, AVFoundations, AVPlayer, MVC, Coordinators, MessageUI, SafariServices, TableViews, Custom Cells, Xib, Auto layout, custom build phase for versioning.
 
-### License
-
-This is an MIT License, but if you are going to use it please change the UI because the app is in the AppStore. Thank you. 😄
-
 ### Screenshots
+<img style="padding: 10px;" src="/images/detroit-909/Launch-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/Main-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
+
+<img style="padding: 10px;" src="/images/detroit-909/Settings-iPhone-8Plus.png" alt="Settings screen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/FAQ-iPhone-8Plus.png" alt="FAQ screen of app" width="350"/>
+
+<img style="padding: 10px;" src="/images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
 
 #### Launch Screen
 
@@ -79,18 +78,17 @@ The shoutouts screen is for giving credit to third-party font and image creators
 
 When you tap on contact in settings, this email screen will show and the user can send feedback directly through the app without leaving it.
 
-<img style="padding: 10px;" src="/images/detroit-909/Launch-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/Main-Screen-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
+### License
 
-<img style="padding: 10px;" src="/images/detroit-909/Settings-iPhone-8Plus.png" alt="Settings screen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/FAQ-iPhone-8Plus.png" alt="FAQ screen of app" width="350"/>
-
-<img style="padding: 10px;" src="/images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="/images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
+This is an MIT License, but if you are going to use it please change the UI because the app is in the AppStore. Thank you. 😄
 
 ## App Projects On GitHub
 
 ### Daily Japan Photos
 Sep 2021
 
-Project description: Daily Japan Photos shows photos of Japan, so people who miss travelling there can view images of the country. 
+### Project Description 
+Daily Japan Photos shows photos of Japan, so people who miss travelling there can view images of the country. 
 
 The code can be view here on [GitHub](https://github.com/mdolancode/Daily-Japan-Photos)!
 
@@ -120,7 +118,8 @@ The code can be view here on [GitHub](https://github.com/mdolancode/Garment)!
 ### Hello-and-Goodbye-Coordinators
 Mar 2021
 
-Project description: simple coordinator project.
+### Project Description 
+A simple coordinator project.
 
 I have previously used coordinators, but it has been a few months, and I needed a review, so I decided to make this small project.
 
@@ -135,7 +134,8 @@ The code can be view here on [GitHub](https://github.com/mdolancode/Hello-and-Go
 ### Personal App Card
 Mar 2021
 
-Project description: The Personal App Card is for developers or professionals that want to give their clients easy access to their information. 
+### Project Description
+The Personal App Card is for developers or professionals that want to give their clients easy access to their information. 
 
 Technologies used: Swift, SwiftUI.
 
