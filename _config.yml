@@ -22,8 +22,9 @@ title: Matthew Dolan | iOS Developer
 email: mdolancode@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Matthew Dolan is an iOS Developer and Blogger who writes about Swift, app development, software development, crypto, life as a developer, and whatever else he feels like writing on!
-baseurl: "https://mdolancode.github.io/portfolio/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: mdolancode.github.io
+baseurl: "https://mdolancode.github.io" # the subpath of your site, e.g. /blog
+url: "/portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mdolancode
 github_username:  mdolancode
 linkedin_username: mdolancode
