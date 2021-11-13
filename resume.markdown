@@ -2,4 +2,5 @@
 layout: page
 title: Resume
 ---
-<object data="../pdf/resume.pdf" width="100%" height="1000" type='application/pdf'></object>
+<!-- <object data="../pdf/resume.pdf" width="100%" height="1000" type='application/pdf'></object> -->
+<embed src="../pdf/resume.pdf" type="application/pdf" width="100%" height="600px" />
