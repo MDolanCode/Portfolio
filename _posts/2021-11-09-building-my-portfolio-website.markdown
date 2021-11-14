@@ -4,13 +4,15 @@ title:  "Building My Portfolio Website"
 date:   2021-11-09 14:42:00 -0700
 categories: Jekyll
 ---
-### How did I do it, and my lessons learned.
+## How did I do it, and my lessons learned
 
 <img src="../images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg" alt="Picture of computer" width="100%"/>
 
 Photo by <a href="https://unsplash.com/@fantasyflip?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Philipp Katzenberger</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 <br>
+
+### Why did I want to build a portfolio website
   
 I am currently looking for a new role as an iOS Developer and was updating my resume recently, so it got me thinking, should I have a portfolio? I wasn't sure if having one was even necessary, but I am a newer developer with two years of experience, so I thought I would ask those who had more experience than I what they thought. I posed this question in one of the iOS Developer communities I belong to on Slack to see what others would say, and some thought it wasn't necessary, but a few did. Then later, I spoke with a friend, and she said that early in her career, her portfolio site helped land some jobs, so I thought about it and then decided to build a portfolio site. After lots of trial and error, I eventually used [Jekyll][jekyll], and I will show you how I got to this place and all the factors I considered, so hopefully, it will help you when you decide to build your own. 
 
@@ -19,6 +21,8 @@ I am currently looking for a new role as an iOS Developer and was updating my re
 Before building my portfolio site, there were many things I had to think about, such as do I want to code it myself? After all, I have a static portfolio site that I created for web development a few years back, and maybe I could convert that. Or, since I have hosting already, maybe create one using WordPress? Then, I thought about React. When I had posed the question in the Slack group, a couple of people mentioned [Jekyll][jekyll] and hosting on GitHub [Pages][github-pages], and I was also kindly given a Jekyll theme that one of them created. There was also a mention of using Squarespace to get you up and running fast. So what did I do, you ask? I tried them all! 
 
 <br>
+
+### My trial and error with different solutions
 
 First, I started by looking at my homegrown option, the static site I built three years ago for web development, and when I looked at the HTML5, Bootstrap3 and CCS3, I was thinking, can I make this work for my needs? Well, what are my needs? I knew I wanted a portfolio, an about, a contact, but what about a blog or selling merchandise? Hmm. With those questions, I then knew that the static site I had created wasn't going to cut it, so I looked at React but found the same thing because I needed a backend, and I don't know how to program that yet. 
 
@@ -32,9 +36,13 @@ Next up was [Jekyll][jekyll], and from my understanding, many developers love an
 
 <br>
 
+### How I trimmed down my focus to get'er done
+
 So, as I said, I went back to WordPress, and as I was trying to get it going, a reply came into the thread where I asked my question in the Slack group. The blog title was ["How to start a blog or portfolio website for developers"](https://www.jessesquires.com/blog/2021/11/01/how-to-start-a-blog/) by Jesse Squires, and when I read the post, one line hit home for me since I think BIG and sometimes have abandoned projects because of that. Here is the line I am talking about, "Keep in mind that you can stop at any point when you reach a level with which you are comfortable. You can always progress to something more advanced later."  Reading Jesse's post made me stop and think, do I need that merch shop right now? No! Do I need to customize everything right now? No! I then decided to scale it back to what I am comfortable with, and I used the minima Jekyll theme and created simple markdown pages to start. While doing this, I kept in mind the words from Jesse's post, which helped me stay focused, and then two days after my portfolio site was complete.
 
 <br>
+
+### My takeaway and conclusion
 
 My takeaways from this project are that it is good to have BIG ideas but know your limits and start small because you can advance later. And also, the simple option is sometimes the best option to get you going. 
 
