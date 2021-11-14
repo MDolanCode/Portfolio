@@ -40,7 +40,7 @@ My takeaways from this project are that it is good to have BIG ideas but know yo
 
 <br>
 
-One more thing, when I read the book ["Big Magic"][big-magic] by Elizabeth Gilbert some years back, she had one point I connected with and would like to share with you. That point is that "Done is better than perfect." That is what I have done with my portfolio site, and I will iterate on what I have and work on my BIG ideas little by little. 
+One more thing, when I read the book ["Big Magic: Creative Living Beyond Fear"][big-magic](Amazon link) by Elizabeth Gilbert some years back, she had one point I connected with and would like to share with you. That point is that "Done is better than perfect." That is what I have done with my portfolio site, and I will iterate on what I have and work on my BIG ideas little by little. 
 
 <br>
 
@@ -55,6 +55,6 @@ Hopefully, my blog post has helped you, and if you would like to share feedback 
 [jekyll]: https://jekyllrb.com
 [minima]: https://github.com/jekyll/minima
 [post]: https://www.jessesquires.com/blog/2021/11/01/how-to-start-a-blog/
-[big-magic]: https://www.elizabethgilbert.com/books/big-magic/
+[big-magic]: https://amzn.to/3FaYTph
 [github-pages]: https://pages.github.com
 [contact]: https://www.mdolancode.com/contact
