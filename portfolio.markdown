@@ -4,6 +4,36 @@ title: Portfolio
 ---
 ## Released Apps or Soon to Be Released Apps
 
+### Anime Quotes! Watch App
+November 2021 - SwiftUIJam Hackathon
+
+### Project Description 
+Anime Quotes! watchOS app, built with the anime lover in mind, and displays quotes on the screen. Every time you open the app on your watch, anime quotes will appear. This app is a stand-alone or used as a companion app with the iOS app of the same name. 
+
+I participated in the SwiftUIJam hackathon, early November 2021, and this app is what I created. I learned quite a bit in a short time, and it was the second time I have used the SwiftUI Framework, but the first time building a watchOS app.  
+
+This app will be released soon to the app store, and the code can be view here on [GitHub](https://github.com/mdolancode/anime-quotes-watch-app)!
+
+Technologies used: Swift, SwiftUI, Codable, Alamofire.
+
+### Screenshots & Video
+
+<video controls width="300">
+    <source src="../images/anime-quotes-watch-app/anime-quotes-watchOS.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<img style="padding: 10px;" src="../images/anime-quotes-watch-app/anime-quotes-watchOS.png" alt="Quotes screen of app" width="225"/>
+
+#### Anime Quotes Screen
+
+The Anime Quotes! screen displays random anime quotes that are pulled in from an API using Alamofire and when you pull down to refresh or close and reopen the app the quotes will update.
+
+### License
+
+This is an MIT License, but if you are going to use it please change the UI because the app will be in the AppStore soon. Thank you. 😄
+
 ### Anime Quotes!
 September 2021 - October 2021
 
