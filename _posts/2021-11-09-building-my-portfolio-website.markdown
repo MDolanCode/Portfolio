@@ -4,7 +4,7 @@ title:  "Building My Portfolio Website"
 date:   2021-11-09 14:42:00 -0700
 categories: Jekyll
 ---
-### The pitfalls I experienced, and lessons learned.
+### How did I do it, and my lessons learned.
 
 <img src="../images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg" alt="Picture of computer" width="100%"/>
 
@@ -44,11 +44,11 @@ One more thing, when I read the book ["Big Magic: Creative Living Beyond Fear"][
 
 <br>
 
-Do you have a portfolio site? If so, I would love to hear how you built yours.
+Hopefully, my blog post has helped you, and if you would like to share feedback or have any questions, I would love to hear from you, so feel free to [contact][contact] me. Also, if you want to make a portfolio site, I recommend you check out Jesse Squires's [post][post] because it is well laid out, helpful and will get you going!
 
 <br>
 
-Hopefully, my blog post has helped you, and if you would like to share feedback or have any questions, I would love to hear from you, so feel free to [contact][contact] me. Also, if you want to make a portfolio site, I recommend you check out Jesse Squires's [post][post] because it is well laid out, helpful and will get you going!
+Do you have a portfolio site? If so, I would love to hear how you built yours.
 
 <br>
 
