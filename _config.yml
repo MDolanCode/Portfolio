@@ -49,7 +49,7 @@ header_pages:
 # Show_excerpts on landing page
 show_excerpts: true
 
-google_analytics: G-TJBM0EJE18
+# google_analytics: G-TJBM0EJE18
 
 # Exclude from processing.
 # The following items will not be processed, by default.
