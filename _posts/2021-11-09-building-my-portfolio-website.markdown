@@ -42,7 +42,7 @@ So, as I said, I went back to WordPress, and as I was trying to get it going, a 
 
 <br>
 
-### My takeaways and conclusion
+### Conclusion
 
 My takeaways from this project are that it is good to have BIG ideas but know your limits and start small because you can advance later. And also, the simple option is sometimes the best option to get you going. 
 
