@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@fantasyflip?utm_source=unsplash&utm_medi
 
 <br>
 
-### Why did I want to build a portfolio website
+### Why did I want to build a portfolio website?
   
 I am currently looking for a new role as an iOS Developer and was updating my resume recently, so it got me thinking, should I have a portfolio? I wasn't sure if having one was even necessary, but I am a newer developer with two years of experience, so I thought I would ask those who had more experience than I what they thought. I posed this question in one of the iOS Developer communities I belong to on Slack to see what others would say, and some thought it wasn't necessary, but a few did. Then later, I spoke with a friend, and she said that early in her career, her portfolio site helped land some jobs, so I thought about it and then decided to build a portfolio site. After lots of trial and error, I eventually used [Jekyll][jekyll], and I will show you how I got to this place and all the factors I considered, so hopefully, it will help you when you decide to build your own. 
 
@@ -22,7 +22,7 @@ Before building my portfolio site, there were many things I had to think about, 
 
 <br>
 
-### My trial and error with different solutions
+### My trial-and-error approach with different solutions
 
 First, I started by looking at my homegrown option, the static site I built three years ago for web development, and when I looked at the HTML5, Bootstrap3 and CCS3, I was thinking, can I make this work for my needs? Well, what are my needs? I knew I wanted a portfolio, an about, a contact, but what about a blog or selling merchandise? Hmm. With those questions, I then knew that the static site I had created wasn't going to cut it, so I looked at React but found the same thing because I needed a backend, and I don't know how to program that yet. 
 
