@@ -42,13 +42,9 @@ So, as I said, I went back to WordPress, and as I was trying to get it going, a 
 
 <br>
 
-### Conclusion
+### My takeaways and thoughts
 
-My takeaways from this project are that it is good to have BIG ideas but know your limits and start small because you can advance later. And also, the simple option is sometimes the best option to get you going. 
-
-<br>
-
-One more thing, when I read the book ["Big Magic: Creative Living Beyond Fear"][big-magic](Amazon link) by Elizabeth Gilbert some years back, she had one point I connected with and would like to share with you. That point is that "Done is better than perfect." That is what I have done with my portfolio site, and I will iterate on what I have and work on my BIG ideas little by little. 
+My takeaways from this project are that it is good to have BIG ideas but know your limits and start small because you can advance later. And also, the simple option is sometimes the best option to get you going. One more thing, when I read the book ["Big Magic: Creative Living Beyond Fear"][big-magic](Amazon link) by Elizabeth Gilbert some years back, she had one point I connected with and would like to share with you. That point is that "Done is better than perfect." That is what I have done with my portfolio site, and I will iterate on what I have and work on my BIG ideas little by little. 
 
 <br>
 
