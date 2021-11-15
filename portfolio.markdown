@@ -32,7 +32,7 @@ The Anime Quotes! screen displays random anime quotes that are pulled in from an
 
 ### License
 
-This is an MIT License, but if you are going to use it please change the UI because the app will be in the AppStore soon. Thank you. 😄
+This is an MIT License, but if you are going to use it please change the UI (colours, fonts, images, buttons, background, etc) because the app will be in the AppStore soon. Thank you. 😄
 
 ### Anime Quotes!
 September 2021 - October 2021
@@ -62,7 +62,7 @@ The shout outs screen gives credit to the API creator and photographer. You can 
 
 ### License
 
-This is an MIT License, but if you are going to use it please change the UI because the app will be in the AppStore soon. Thank you. 😄
+This is an MIT License, but if you are going to use it please change the UI (colours, fonts, images, buttons, background, etc) because the app will be in the AppStore soon. Thank you. 😄
 
 ### Detroit-909
 December 2020 - April 2021
@@ -110,7 +110,7 @@ When you tap on contact in settings, this email screen will show and the user ca
 
 ### License
 
-This is an MIT License, but if you are going to use it please change the UI because the app is in the AppStore. Thank you. 😄
+This is an MIT License, but if you are going to use it please change the UI (colours, fonts, images, buttons, background, etc) because the app is in the AppStore. Thank you. 😄
 
 ## App Projects On GitHub
 
