@@ -4,7 +4,7 @@ title:  "Building My Portfolio Website"
 date:   2021-11-14 14:42:00 -0700
 categories: Jekyll
 ---
-## How did I do it, and my lessons learned
+## How I did it, and my lessons learned
 
 <img src="../images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg" alt="Picture of computer" width="100%"/>
 
