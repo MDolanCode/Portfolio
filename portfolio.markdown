@@ -2,9 +2,9 @@
 layout: page
 title: Portfolio
 ---
-## Released Apps or Soon to Be Released Apps
+### Released Apps or Soon to Be Released Apps
 
-### Anime Quotes! Watch App
+## Anime Quotes! Watch App
 November 2021 - SwiftUIJam Hackathon
 
 ### Project Description 
@@ -28,7 +28,7 @@ This app will be released soon to the app store, and the code can be view here o
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-### Anime Quotes!
+## Anime Quotes!
 September 2021 - October 2021
 
 ### Project Description 
@@ -44,7 +44,7 @@ This app will be released soon to the app store, and the code can be view here o
 <img style="padding: 10px;" src="../images/anime-quotes/Launchscreen-iPhone-8Plus.png" alt="Launchscreen of app" width="225"/><img style="padding: 10px;" src="../images/anime-quotes/Quotes-Screen-iPhone-8Plus.png" alt="Anime Quotes screen" width="225"/><img style="padding: 10px;" src="../images/anime-quotes/Shout-Outs-Screen-iPhone-8Plus.png" 
 alt="Shout outs screen" width="225"/>
 
-### Detroit-909
+## Detroit-909
 December 2020 - April 2021
 
 ### Project Description 
@@ -66,9 +66,9 @@ This app is available on the [App Store](https://apps.apple.com/us/app/detroit-9
 
 <img style="padding: 10px;" src="../images/detroit-909/ShoutOuts-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/><img style="padding: 10px;" src="../images/detroit-909/MessageUI-iPhone-8Plus.png" alt="Launchscreen of app" width="350"/>
 
-## App Projects On GitHub
+### App Projects On GitHub
 
-### Daily Japan Photos
+## Daily Japan Photos
 Sep 2021
 
 ### Project Description 
@@ -80,7 +80,7 @@ The code can be view here on [GitHub](https://github.com/mdolancode/Daily-Japan-
 **Languages:** Swift  
 **Technologies/Frameworks:** UIKit, Codable, Alamofire, Kingfisher
 
-### Cat Calendar
+## Cat Calendar
 July 2021 - August 2021
 
 * Download or clone repo then run.
@@ -95,7 +95,7 @@ Cyber Cat Cal is a five-day calendar that displays a different cat image for eac
 
 The code can be view here on [GitHub](https://github.com/mdolancode/CyberCatCal)!
 
-### Garment
+## Garment
 May 2021 – Jun 2021
 
 ### Project description 
@@ -107,7 +107,7 @@ The Garment app is for listing garments. You can tap the buttons and choose to v
 
 The code can be view here on [GitHub](https://github.com/mdolancode/Garment)!
 
-### Hello-and-Goodbye-Coordinators
+## Hello-and-Goodbye-Coordinators
 Mar 2021
 
 ### Project Description 
@@ -125,7 +125,7 @@ I hope this helps!
 
 The code can be view here on [GitHub](https://github.com/mdolancode/Hello-and-Goodbye-Coordinators)!
 
-### Personal App Card
+## Personal App Card
 Mar 2021
 
 ### Project Description
