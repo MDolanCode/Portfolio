@@ -8,7 +8,7 @@ title: Portfolio
 November 2021 - SwiftUIJam Hackathon
 
 ### Project Description 
-Anime Quotes! watchOS app, built with the anime lover in mind, and displays quotes on the screen. Every time you open the app on your watch, anime quotes will appear. This app is a stand-alone or used as a companion app with the iOS app of the same name. 
+Anime Quotes! watchOS app, built with the anime lover in mind, and displays quotes on the screen. Every time you open the app on your watch, anime quotes will appear. This can be used independently or as a companion app with the iOS app. 
 
 I participated in the SwiftUIJam hackathon, early November 2021, and this app is what I created. I learned quite a bit in a short time, and it was the second time I have used the SwiftUI Framework, but the first time building a watchOS app.  
 
@@ -34,7 +34,7 @@ September 2021 - October 2021
 ### Project Description 
 Anime Quotes! was built with the anime lover in mind and displays quotes on the screen. Every time you open the app or pull down to refresh, new anime quotes will appear. This app also has accessibility built-in to it and utilizes the VoiceOver Z gesture.
 
-This app will be released soon to the app store, and the code can be view here on [GitHub](https://github.com/mdolancode/Anime-Quotes)!
+This app is available on the [App Store](https://apps.apple.com/us/app/anime-quotes/id1595682340), and the code can be viewed here on [GitHub](https://github.com/mdolancode/Anime-Quotes)!
 
 **My role:** Sole iOS Developer  
 **Languages:** Swift  
@@ -53,7 +53,7 @@ Detroit-909 is a project that I started because I wanted to create a drum sample
 * This is app is a drum sampler based on Roland's classic TR-909 and it consists of 11 drum pads and sampled sounds. 
 * Detroit Techno heavily utilized the TR-909 and helped to make it the iconic drum machine that it is today, so this app pays homage to both. 
 
-This app is available on the [App Store](https://apps.apple.com/us/app/detroit-909/id1560868575), and the code can be view here on [GitHub](https://github.com/mdolancode/Detroit-909)!
+This app is available on the [App Store](https://apps.apple.com/us/app/detroit-909/id1560868575), and the code can be viewed here on [GitHub](https://github.com/mdolancode/Detroit-909)!
 
 **My role:** Sole iOS Developer  
 **Languages:** Swift  
@@ -74,7 +74,7 @@ Sep 2021
 ### Project Description 
 Daily Japan Photos shows photos of Japan, so people who miss travelling there can view images of the country. 
 
-The code can be view here on [GitHub](https://github.com/mdolancode/Daily-Japan-Photos)!
+The code can be viewed here on [GitHub](https://github.com/mdolancode/Daily-Japan-Photos)!
 
 **My role:** Sole iOS Developer  
 **Languages:** Swift  
@@ -93,7 +93,7 @@ Cyber Cat Cal is a five-day calendar that displays a different cat image for eac
 **Languages:** Swift  
 **Technologies/Frameworks:** UIKit, Codable, URLSession, MVC, Date Formatter
 
-The code can be view here on [GitHub](https://github.com/mdolancode/CyberCatCal)!
+The code can be viewed here on [GitHub](https://github.com/mdolancode/CyberCatCal)!
 
 ## Garment
 May 2021 – Jun 2021
@@ -105,7 +105,7 @@ The Garment app is for listing garments. You can tap the buttons and choose to v
 **Languages:** Swift  
 **Technologies/Frameworks:** UIKit, Dependency Injection, Realm Database, Protocols and Delegates, XCUnit tests
 
-The code can be view here on [GitHub](https://github.com/mdolancode/Garment)!
+The code can be viewed here on [GitHub](https://github.com/mdolancode/Garment)!
 
 ## Hello-and-Goodbye-Coordinators
 Mar 2021
@@ -123,7 +123,7 @@ I hope this helps!
 **Languages:** Swift  
 **Technologies/Frameworks:** UIKit, Coordinators
 
-The code can be view here on [GitHub](https://github.com/mdolancode/Hello-and-Goodbye-Coordinators)!
+The code can be viewed here on [GitHub](https://github.com/mdolancode/Hello-and-Goodbye-Coordinators)!
 
 ## Personal App Card
 Mar 2021
@@ -135,4 +135,4 @@ The Personal App Card is for developers or professionals that want to give their
 **Languages:** Swift  
 **Technologies/Frameworks:** SwiftUI
 
-The code can be view here on [GitHub](https://github.com/mdolancode/Matt-Dolan-s-Card)!
+The code can be viewed here on [GitHub](https://github.com/mdolancode/Matt-Dolan-s-Card)!
