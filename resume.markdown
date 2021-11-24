@@ -16,12 +16,12 @@ I am an **iOS Software Engineer with two years of experience** and have previous
 **Indie iOS Developer - Matthew Dolan Apps**  
 December 2020 - Present, Vancouver, BC  
 **Detroit-909** [https://apps.apple.com/us/app/detroit-909/id1560868575](https://apps.apple.com/us/app/detroit-909/id1560868575)  
-**Anime Quotes!** [https://github.com/mdolancode/Anime-Quotes](https://github.com/mdolancode/Anime-Quotes)    
+**Anime Quotes!** [https://apps.apple.com/us/app/anime-quotes/id1595682340](https://apps.apple.com/us/app/anime-quotes/id1595682340)    
 **Anime Quotes! Watch App** [https://github.com/mdolancode/anime-quotes-watch-app](https://github.com/mdolancode/anime-quotes-watch-app)    
 * Developed "Detroit-909" and "AnimeQuotes!" independently and used Object-Oriented Programming,
 Swift and UIKit.
-* Submitted "Detroit-909" to the AppStore review process and successfully published the app with
-over 100+ downloads.
+* Submitted “Detroit-909" and “Anime Quotes!” to the AppStore review process and successfully published both apps. 
+* Detroit-909 has over 100+ downloads.
 * Built a drum sampler using the AVFoundation framework and triggered samples.
 * Implemented the MessageUI framework to launch a screen of the native email app so users can
 communicate with the developer.
