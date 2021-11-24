@@ -56,6 +56,10 @@ Do you have a portfolio site? If so, I would love to hear how you built yours.
 
 <br>
 
+Also, if you would like to support me and buy me a coffee, you can here!
+
+<a href="https://www.buymeacoffee.com/mdolancode"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mdolancode&button_colour=40DCA5&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 [jekyll]: https://jekyllrb.com
 [minima]: https://github.com/jekyll/minima
 [post]: https://www.jessesquires.com/blog/2021/11/01/how-to-start-a-blog/
